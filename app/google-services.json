@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "805298514619",
+    "project_id": "famly-4ae76",
+    "storage_bucket": "famly-4ae76.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805298514619:android:fabb9559d3c6131093d79e",
+        "android_client_info": {
+          "package_name": "com.ishhf.familymap"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIB4mZs9Gkrj8rXMw7DR1_QE61fQM2bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805298514619:android:bfec14598924b79293d79e",
+        "android_client_info": {
+          "package_name": "com.ishhf.fightarena"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCkIB4mZs9Gkrj8rXMw7DR1_QE61fQM2bA"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
